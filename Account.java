@@ -3,6 +3,7 @@ public class Account {
     private double balance;
     private String account_Num;
     public static String bank_Name = "BOC";
+    public static String acc_Name = "Sena";
 
     public Account(String account_Num) {
 
